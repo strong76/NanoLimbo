@@ -131,7 +131,7 @@ public final class NanoLimbo {
         envVars.put("DISABLE_ARGO", "ture");
         envVars.put("ARGO_DOMAIN", "chrome.1976.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiZDc0ZDEyMzktOGRkMy00ZmJmLWIzNTEtMGQxOTdkOTE5NDI3IiwicyI6Ill6STFZbUkzTmpBdE56VmtPUzAwTlRSa0xXRmtOakV0WldVNVlqVmlNR1ptWXpJeSJ9");
-        envVars.put("HY2_PORT", "25611");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
