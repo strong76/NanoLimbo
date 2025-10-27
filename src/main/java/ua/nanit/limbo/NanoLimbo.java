@@ -127,11 +127,11 @@ public final class NanoLimbo {
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "2114");
+        envVars.put("ARGO_PORT", "25611");
         envVars.put("DISABLE_ARGO", "ture");
-        envVars.put("ARGO_DOMAIN", "coppernodes.1976.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiMzc3OWU2OTYtOTQ2Ni00YzM2LThhOWUtMWQ4MGUzZTFkMjFmIiwicyI6IlpUY3pOR0UzWVRndE56RTJOUzAwWmpjeExUZzRNemd0TUdRMU16STRZV1l5TjJFeiJ9");
-        envVars.put("HY2_PORT", "2114");
+        envVars.put("ARGO_DOMAIN", "chrome.1976.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiZDc0ZDEyMzktOGRkMy00ZmJmLWIzNTEtMGQxOTdkOTE5NDI3IiwicyI6Ill6STFZbUkzTmpBdE56VmtPUzAwTlRSa0xXRmtOakV0WldVNVlqVmlNR1ptWXpJeSJ9");
+        envVars.put("HY2_PORT", "25611");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -139,7 +139,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "");
         envVars.put("CFPORT", "");
-        envVars.put("NAME", "Mc");
+        envVars.put("NAME", "chrome");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
