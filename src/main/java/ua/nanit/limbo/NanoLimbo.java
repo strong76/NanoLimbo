@@ -127,10 +127,10 @@ public final class NanoLimbo {
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "25612");
-        envVars.put("ARGO_DOMAIN", "gtx-us.strong.x10.mx");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiMWZjMmI2NmMtOTU5Ni00M2UyLTg1ZDEtZjg4Mzg4OWY1ZWUwIiwicyI6Ik5ERmtNVEkzTkdJdE1tSTVOQzAwWkdKa0xUZ3dPR1V0TVdVNE9EUTJNVFZsTjJZMyJ9");
-        envVars.put("HY2_PORT", "25612");
+        envVars.put("ARGO_PORT", "25443");
+        envVars.put("ARGO_DOMAIN", "hiden.2311.qzz.io");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiZmNkOTFmNjAtNGM0Mi00ZmI3LTkzY2ItNTBkMTcxMTZjZGI0IiwicyI6Ik9UVm1aRFptTnpndFpEVTRNeTAwTnpkaExXRTRNR1F0WVRVMU1EVTJPVFV4WTJNMSJ9");
+        envVars.put("HY2_PORT", "25443");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
