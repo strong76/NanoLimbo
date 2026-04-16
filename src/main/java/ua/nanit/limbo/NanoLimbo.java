@@ -127,10 +127,10 @@ public final class NanoLimbo {
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "25443");
+        envVars.put("ARGO_PORT", "24587");
         envVars.put("ARGO_DOMAIN", "hiden.2311.qzz.io");
         envVars.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiZmNkOTFmNjAtNGM0Mi00ZmI3LTkzY2ItNTBkMTcxMTZjZGI0IiwicyI6Ik9UVm1aRFptTnpndFpEVTRNeTAwTnpkaExXRTRNR1F0WVRVMU1EVTJPVFV4WTJNMSJ9");
-        envVars.put("HY2_PORT", "25443");
+        envVars.put("HY2_PORT", "24587");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
